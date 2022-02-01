@@ -20,7 +20,9 @@
   },
   "dependencies": {
     "gsap": "^3.9.1",
-    "three": "^0.137.5"
+    "three": "^0.137.5",
+    "vite": "^2.7.2",
+    "vite-plugin-string": "^1.1.2"
   },
   "main": "main.js",
   "repository": {
